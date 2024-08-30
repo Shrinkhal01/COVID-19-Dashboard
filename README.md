@@ -29,6 +29,8 @@ Welcome to the COVID-19 Dashboard, a Python-based project developed using Dash a
 
 3. The next lines should appear like :
 
+![1630C108-BD1E-4E60-96BC-E821604A8345](https://github.com/user-attachments/assets/86a2f084-2de2-40f5-b984-5d98a6cc4fcf)
+
 
 4. Now you just have to follow the link which might look like:
    ```bash
@@ -51,13 +53,9 @@ Once the dashboard is running, you can explore the following features:
 Here are screenshots of the dashboard in action:
 
 ### COVID-19 Dashboard Main View
-screenshot soon
+![1DB4458E-9670-4943-95B8-70DC1FA15BA8](https://github.com/user-attachments/assets/7771891a-b77f-4788-9ea0-fcc6d5331374)
 
-### Country-Wise Case Graph
-screenshot soon
 
-### Country-Wise Death Graph
-screenshot soon
 
 
 
