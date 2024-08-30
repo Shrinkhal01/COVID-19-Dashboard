@@ -55,6 +55,8 @@ Here are screenshots of the dashboard in action:
 ### COVID-19 Dashboard Main View
 ![1DB4458E-9670-4943-95B8-70DC1FA15BA8](https://github.com/user-attachments/assets/7771891a-b77f-4788-9ea0-fcc6d5331374)
 
+### YOU CAN ALSO VIEW IT FOR OTHER COUNTRIES FROM THE OPTION 
+![5234DA51-BF30-4AAE-96BD-D03128D976F6](https://github.com/user-attachments/assets/ff67a166-433c-4541-bc26-07286b26bb49)
 
 
 
